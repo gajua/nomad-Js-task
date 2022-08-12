@@ -16,6 +16,6 @@ Random Background Color
 
 Random Number Game
 
-지정한 범위내에서 랜덤으로 나오는 숫자를 예측하는 
+지정한 범위내에서 랜덤으로 나오는 숫자를 예측하는 게임
 
 
