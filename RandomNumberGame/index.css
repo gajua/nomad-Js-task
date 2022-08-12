@@ -1,0 +1,20 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
+}
+
+input {
+  font-size: 22px;
+}
+.hidden {
+  display: none;
+}
+
+
+button{
+  text-align: center;
+  font-size: 20px;
+  width: 80px;
+}
