@@ -1,4 +1,7 @@
 # namad-Js-task
+
+https://gajua.github.io/nomad-Js-task/
+
 ![화면 캡처 2022-08-12 140146](https://user-images.githubusercontent.com/101968934/184288525-8efc2ea1-32b3-45bf-b9e0-f3803cc6d680.png)
 
 크리스마스까지 D-Day
